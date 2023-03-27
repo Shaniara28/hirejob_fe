@@ -1,0 +1,171 @@
+.landing {
+  margin-top: 150px;
+  overflow: hidden;
+}
+
+/* Section 1 */
+.buttonPurple {
+  font-size: 14px;
+  color: white;
+  border: 1px solid #5e50a1;
+  background-color: #5e50a1;
+}
+
+.imgWrap {
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+
+.boxGrayS1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #e2e5ed;
+  transform: rotate(-15.79deg);
+}
+
+.image1 {
+  position: absolute;
+  width: 100%;
+}
+
+.boxPurpleS1 {
+  position: absolute;
+  width: 25%;
+  height: 25%;
+  background: #5e50a1;
+  bottom: -20px;
+  left: -30px;
+}
+
+.boxYellowS1 {
+  position: absolute;
+  width: 10%;
+  height: 10%;
+  background: #fbb017;
+  bottom: -30px;
+  left: 45px;
+}
+/* End Section 1 */
+
+/* Section 2 */
+.imgWrap2 {
+  position: relative;
+  width: 400px;
+  height: 320px;
+}
+
+.boxGrayS2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #e2e5ed;
+  transform: rotate(12.57deg);
+}
+
+.boxPurpleS2 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background: #5e50a1;
+  top: -30px;
+  left: -30px;
+}
+
+.iconPurple {
+  color: #5e50a1;
+}
+/* End Section 2 */
+
+/* Section 3 */
+.iconYellow {
+  color: #fbb017;
+}
+.boxGrayS3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #e2e5ed;
+  transform: rotate(-12.92deg);
+}
+.boxPurpleS3 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background: #fbb017;
+  top: -30px;
+  right: -30px;
+}
+/* End Section */
+
+/* Fill */
+.fill {
+  position: relative;
+  height: 100%;
+  background-color: #5e50a1;
+  border-radius: 40px 8px;
+}
+.buttonWhite {
+  font-size: 14px;
+  color: #5e50a1;
+  border: 1px solid #5e50a1;
+  background-color: white;
+}
+/* End Fill */
+
+@media screen and (max-width: 991px) {
+  .imgWrap {
+    width: 300px;
+    height: 300px;
+  }
+  .boxYellowS1 {
+    bottom: -30px;
+    left: 30px;
+  }
+  .imgWrap2 {
+    width: 350px;
+    height: 280px;
+  }
+  .boxGrayS2 {
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    background: #e2e5ed;
+    transform: rotate(12.57deg);
+  }
+  .boxGrayS3 {
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    background: #e2e5ed;
+    transform: rotate(-12.92deg);
+  }
+}
+
+/* .container {
+  margin-top: 100px;
+  width: 80%;
+  margin: 70px auto;
+}
+.section {
+  margin-bottom: 70px;
+}
+.review {
+  height: 200px;
+  background: #e5e5e5;
+}
+.button {
+  width: 210px;
+  height: 60px;
+  background-color: #5e50a1;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+.white {
+  background-color: white;
+  color: #5e50a1;
+  border: 1px solid #5e50a1;
+} */

@@ -1,0 +1,40 @@
+.btnWhite {
+  width: 87px;
+  height: 44px;
+  font-size: 14px;
+  color: #5e50a1;
+  border: 1px solid #5e50a1;
+  background-color: white;
+}
+
+.btnPurple {
+  width: 87px;
+  height: 44px;
+  font-size: 14px;
+  color: white;
+  border: 1px solid #5e50a1;
+  background-color: #5e50a1;
+}
+
+.btnWhite:hover {
+  color: white;
+  border: 1px solid #5e50a1;
+  background-color: #5e50a1;
+}
+
+.btnPurple:hover {
+  color: #5e50a1;
+  border: 1px solid #5e50a1;
+  background-color: white;
+}
+
+.icon {
+  color: #9b9b9b;
+  font-size: 25px;
+}
+
+@media screen and (max-width: 991px) {
+  .home {
+    padding-bottom: 10px;
+  }
+}

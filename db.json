@@ -1,0 +1,145 @@
+{
+  "company": [
+    {
+      "nama": "PT Jaya Makmur",
+      "jabatan": "HRD",
+      "bidang": "Manufaktur",
+      "kota": "Jakarta Timur, DKI Jakarta",
+      "deskripsi_singkat": "Perusahaan yang bergerak dibidang manufaktur",
+      "email": "jatimakmur@gmail.com",
+      "password": "jatimakmur123",
+      "instagram": "@jatimakmur",
+      "nomor_telepon": "085945582441",
+      "linkedin": "PT Jati Makmur",
+      "id": 1
+    }
+  ],
+  "worker": [
+    {
+      "id": 1,
+      "nama": "Shania Risky Agustin",
+      "jabatan": "Front End Web Developer",
+      "email": "saniarizkiagustin@gmail.com",
+      "password": "shania123",
+      "nomor_telepon": "08123456789",
+      "jobdesk": "blabla",
+      "domisili": "Bekasi, Jawa Barat",
+      "tempat_kerja": "Google",
+      "deskripsi_singkat": "Saya Shania Risky Agustin. Saya lulusan perguruan tinggi dengan gelar dibidang IT saya juga lulusan bootcamp yang bernama pijar camp. Saya memiliki kompetensi dibidang pemrograman yang bisa dibuktikan oleh portofolio dan sertifikat. Saya memiliki pengalaman magang di kementerian sekretariat negara sebagai web developer."
+    },
+    {
+      "id": 2,
+      "nama": "Kim Taehyung",
+      "jabatan": "Fullstack Web",
+      "email": "Taehyung@gmail.com",
+      "password": "taehyung123",
+      "nomor_telepon": "08567894321",
+      "jobdesk": "blabla",
+      "domisili": "Surabaya, Jawa Timur",
+      "tempat_kerja": "Shopee",
+      "deskripsi_singkat": "Kim Taehyung BTS Fullstack Web"
+    },
+    {
+      "id": 3,
+      "nama": "Im Yoon Ah",
+      "jabatan": "Frontend Web",
+      "email": "Yoona@gmail.com",
+      "password": "yoona123",
+      "nomor_telepon": "08567894321",
+      "jobdesk": "blabla",
+      "domisili": "Jakarta Timur, DKI Jakarta",
+      "tempat_kerja": "Tokopedia",
+      "deskripsi_singkat": "Im Yoon Ah Girls Generation Frontend Web"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "nama_skill": "Java",
+      "workerId": 1
+    },
+    {
+      "id": 2,
+      "nama_skill": "Phyton",
+      "workerId": 2
+    },
+    {
+      "id": 3,
+      "nama_skill": "NodeJS",
+      "workerId": 3
+    },
+    {
+      "nama_skill": "CSS",
+      "workerId": 1,
+      "id": 4
+    },
+    {
+      "nama_skill": "Phyton",
+      "workerId": 1,
+      "id": 5
+    }
+  ],
+  "pengalaman_kerja": [
+    {
+      "id": 1,
+      "posisi": "Fullstack Web Developer",
+      "nama_perusahaan": "PT Terang Dunia",
+      "tahun": "July 2020 - January 2023",
+      "deskripsi": "blabla",
+      "workerId": 1
+    },
+    {
+      "id": 2,
+      "posisi": "Backend Web Developer",
+      "nama_perusahaan": "PT Mustika Jaya",
+      "tahun": "Febuary 2018 - January 2020",
+      "deskripsi": "blabla",
+      "workerId": 1
+    },
+    {
+      "id": 3,
+      "posisi": "Frontend Web Developer",
+      "nama_perusahaan": "PT Surya Pratama",
+      "tahun": "Maret 2017 - Desember 2017",
+      "deskripsi": "blabla",
+      "workerId": 1
+    },
+    {
+      "posisi": "Presiden",
+      "nama_perusahaan": "Lazada",
+      "tahun": "April 2020",
+      "deksripsi": "bla bla",
+      "workerId": "1",
+      "id": 4
+    }
+  ],
+  "portofolio": [
+    {
+      "id": 1,
+      "nama_aplikasi": "Blanja",
+      "workerId": 1
+    },
+    {
+      "id": 2,
+      "nama_aplikasi": "Food Recipe",
+      "workerId": 1
+    },
+    {
+      "id": 3,
+      "nama_aplikasi": "Hire Job",
+      "workerId": 1
+    },
+    {
+      "nama_aplikasi": "Job Seeker",
+      "workerId": 1,
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "email": "shania@gmail.com",
+      "password": "shania123",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.footer {
+  background-color: #5e50a1;
+}
+
+.topFooter {
+  margin-top: 50px;
+}
+
+.bottomFooter {
+  margin-bottom: 30px;
+}
+
+.PFooter {
+  font-size: 20px;
+  color: white;
+}
+
+.hr {
+  border: 2px solid white;
+  margin-bottom: 40px;
+}
