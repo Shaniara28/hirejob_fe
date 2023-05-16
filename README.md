@@ -29,7 +29,7 @@
 
 ## About The Project
 
-Peworld Hirejob is a web-based application, where there are two users, workers and companies. Employees can share their profile, skills, portfolio and experience. Companies can hire workers. This app is built using NextJS and ExpressJS.
+Peworld Hirejob is a web-based application, where there are two users, workers and companies. Workers can share their profile, skills, portfolio and experience. Companies can hire workers. This app is built using NextJS and ExpressJS.
 
 ### Project Structure
 
@@ -52,72 +52,93 @@ Peworld Hirejob is a web-based application, where there are two users, workers a
 
 <details>
   <summary>
-    Login Page
+    Login worker
   </summary>
-<img src="./screenshot/login.PNG" alt="login page" />
+<img src="./screenshot/login-pekerja.PNG" alt="login worker" />
 </details>
 
 <details>
   <summary>
-    Register Page
+    Register worker
   </summary>
-<img src="./screenshot/register.PNG" alt="register page" />
+<img src="./screenshot/register-pekerja.PNG" alt="register worker" />
 </details>
 
 <details>
   <summary>
-    Forgot Password Page
+    Login Company
   </summary>
-<img src="./screenshot/forgot.PNG" alt="forgot password page" />
+<img src="./screenshot/login-perusahaan.PNG" alt="login company" />
+</details>
+
+<details>
+  <summary>
+    Register Company
+  </summary>
+<img src="./screenshot/register-perusahaan.PNG" alt="register company" />
+</details>
+
+<details>
+  <summary>
+    Reset Password Page
+  </summary>
+<img src="./screenshot/reset-password.PNG" alt="reset password" />
+</details>
+
+<details>
+  <summary>
+    Confirm Password
+  </summary>
+<img src="./screenshot/confirm-password.PNG" alt="confirm password" />
+</details>
+
+<details>
+  <summary>
+    Confirm Password Login
+  </summary>
+<img src="./screenshot/confirm-password-login.PNG" alt="confirm password login" />
 </details>
 
 <details>
   <summary>
     Landing Page
   </summary>
-<img src="./screenshot/landing.PNG" alt="landing page" />
+<img src="./screenshot/landing-page.PNG" alt="landing page" />
 </details>
 
 <details>
   <summary>
-    Product Detail Page
+    Home
   </summary>
-<img src="./screenshot/detail.PNG" alt="product detail page" />
+<img src="./screenshot/home.PNG" alt="home" />
 </details>
 
 <details>
   <summary>
-    MyBag Page
+    Profile Worker Portofolio
   </summary>
-<img src="./screenshot/mybag.PNG" alt="mybag page" />
+<img src="./screenshot/profile-portofolio.PNG" alt="profile portofolio" />
 </details>
 
 <details>
   <summary>
-    Checkout Page
+    Profile Worker Experience
   </summary>
-<img src="./screenshot/checkout.PNG" alt="checkout page" />
+<img src="./screenshot/profile-pengalaman-kerja.PNG" alt="profile experience" />
 </details>
 
 <details>
   <summary>
-    Seller MyProduct
+    Edit Profile Worker
   </summary>
-<img src="./screenshot/myproduct.PNG" alt="myproduct" />
+<img src="./screenshot/edit-profile-pekerja.PNG" alt="edit profile" />
 </details>
 
 <details>
   <summary>
-    Seller Edit Product
+    Company Profile
   </summary>
-<img src="./screenshot/editproduct.PNG" alt="update product" />
-</details>
-
-<details>
-  <summary>
-    Seller Insert Product
-  </summary>
-<img src="./screenshot/addproduct.PNG" alt="add product" />
+<img src="./screenshot/profile-perusahaan.PNG" alt="company profile" />
 </details>
 
 ### Package Modules

@@ -25,7 +25,7 @@ const CompanyProfile = () => {
                 <p className="text-secondary">
                   <i class="bi bi-geo-alt"></i> Purwokerto, Jawa Tengah
                 </p>
-                <p className="px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum erat orci, mollis nec gravida sed, ornare quis urna. Curabitur eu lacus fringilla, vestibulum risus at.</p>
+                <p className="px-5">PT. Martabat Jaya Abadi adalah PT yang bergerak pada bidang usaha periklanan yang profesional.</p>
                 <div className="row justify-content-center text-start ">
                   <div className="col-6 col-md-3 d-grid text-center mb-4">
                     <div className="button d-grid">
@@ -36,16 +36,16 @@ const CompanyProfile = () => {
                   </div>
                   <div className="col-12 d-grid justify-content-center mb-5">
                     <p>
-                      <i class="bi bi-envelope"></i> Shania@gmail.com
+                      <i class="bi bi-envelope"></i> Martabat_JA@gmail.com
                     </p>
                     <p>
-                      <i class="bi bi-instagram"></i> @Shaniara
+                      <i class="bi bi-instagram"></i> @Martabat_JA
                     </p>
                     <p>
                       <i class="bi bi-telephone"></i> 085945582441
                     </p>
                     <p>
-                      <i class="bi bi-linkedin"></i> Shania Risky Agustin
+                      <i class="bi bi-linkedin"></i> PT Martabat Jaya Abadi
                     </p>
                   </div>
                 </div>
