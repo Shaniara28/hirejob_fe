@@ -4,7 +4,7 @@ import Banner from '@/components/banner';
 import styles from '../../../styles/Auth.module.css';
 import Logo_Purple from '../../../assets/image/Logo_Purple.png';
 
-const Register = () => {
+const RegisterPerusahaan = () => {
   return (
     <div className={`${styles.containerRegister}`}>
       <div className="d-flex flex-row justify-content-center h-100">
@@ -48,4 +48,4 @@ const Register = () => {
   );
 };
 
-export default Register;
+export default RegisterPerusahaan;

@@ -14,9 +14,9 @@ const ResetPassword = () => {
           <div className={styles.info}>
             <Image className={styles.mobileLogo} src={Logo_Purple} height={20} width={70} alt="logo peworld" />
             <h1 className={styles.mobileHeader}>Reset Password</h1>
-            <p className={`${styles.mobileHeader} ${styles.par}`}>Enter your user account's verified email address and we will send you a password reset link.</p>
+            <p className={`${styles.mobileHeader} ${styles.par}`}>Enter your user accounts verified email address and we will send you a password reset link.</p>
             <h1>Reset Password</h1>
-            <p>Enter your user account's verified email address and we will send you a password reset link.</p>
+            <p>Enter your user accounts verified email address and we will send you a password reset link.</p>
             <div className="mt-5" />
             <form className={styles.form}>
               <label>Email</label>

@@ -8,7 +8,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import Swal from 'sweetalert2';
 
-const Register = () => {
+const RegisterPekerja = () => {
   const router = useRouter();
   const [passwordConfirm, setPasswordConfirm] = useState('');
   const [data, setData] = useState({
@@ -100,4 +100,4 @@ const Register = () => {
   );
 };
 
-export default Register;
+export default RegisterPekerja;

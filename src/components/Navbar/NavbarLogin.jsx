@@ -39,7 +39,7 @@ const NavbarLogin = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse text-center px-md-5" id="navbarNav">
-          <Link className={`nav-link ms-lg-5 fw-semibold active fs-5 ${style.home}`} href="/home/csr">
+          <Link className={`nav-link ms-lg-5 fw-semibold active fs-5 ${style.home}`} href="/home">
             Home
           </Link>
           <button className={`btn fw-bold ms-auto ${style.btnPurple}`} type="button">

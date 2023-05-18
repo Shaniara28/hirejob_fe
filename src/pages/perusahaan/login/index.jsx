@@ -8,7 +8,7 @@ import { useState } from 'react';
 import axios from 'axios';
 import Swal from 'sweetalert2';
 
-const login = () => {
+const LoginPerusahaan = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const router = useRouter();
@@ -102,4 +102,4 @@ const login = () => {
   );
 };
 
-export default login;
+export default LoginPerusahaan;
