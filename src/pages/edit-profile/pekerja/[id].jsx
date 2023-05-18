@@ -4,6 +4,7 @@ import style from '../../../styles/EditProfile.module.css';
 import React from 'react';
 import Image from 'next/image';
 import img from '../../../assets/image/Profil.png';
+import foto from '../../../assets/image/foto.png';
 import InputFormEdit from '../../../components/Form/InputFormEdit/index';
 import { useRouter } from 'next/router';
 import axios from 'axios';
@@ -230,7 +231,7 @@ const EditProfile = () => {
               <div className={`col-12 ${style.rowOneLeft}`}>
                 <div className="profileDesc">
                   <div className={` mx-auto pb-4 pt-2 ${style.picture}`}>
-                    <Image src={img} className="img-thumbnail rounded-circle"></Image>
+                    <Image src={foto} className="img-thumbnail rounded-circle"></Image>
                   </div>
                   <h5 className="fw-bolder">{worker?.name}</h5>
                   <span className={style.work}>{worker?.jobdesk}</span>

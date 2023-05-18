@@ -3,7 +3,7 @@ import SectionPage from '../../../components/Section/LandingPage/SectionPage';
 import React from 'react';
 import style from '../../../styles/company.module.css';
 import Image from 'next/image';
-import img from '../../../assets/image/Profil.png';
+import logo from '../../../assets/image/logo_perusahaan.png';
 import Link from 'next/link';
 
 const CompanyProfile = () => {
@@ -14,7 +14,7 @@ const CompanyProfile = () => {
           <div className="row justify-content-center">
             <div className={`col-11 ${style.colRow}`}>
               <div className={`${style['box-imgBackground']} d-flex justify-content-end align-items-end`} style={{ backgroundColor: '#ffffff' }}>
-                <Image src={img} className={`img-fluid ${style.img}`}></Image>
+                <Image src={logo} className={`img-fluid ${style.img}`}></Image>
                 <Link href={`/edit-profile/perusahaan`} className="pe-4 pb-2">
                   Edit Profile
                 </Link>

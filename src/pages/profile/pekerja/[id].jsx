@@ -4,6 +4,7 @@ import Image from 'next/image';
 import style from '../../../styles/Profile.module.css';
 import img from '../../../assets/image/Profil.png';
 import img1 from '../../../assets/image/porto-2.png';
+import foto from '../../../assets/image/foto.png';
 import MainProfile from '@/Components/LayoutProfile/MainProfile';
 import LeftSide from '@/Components/LayoutProfile/LeftSide';
 import RightSide from '@/Components/LayoutProfile/RightSide';
@@ -107,7 +108,7 @@ const Profile = () => {
           <LeftSide>
             <div className="profileDesc">
               <div className={` mx-auto pb-4 pt-2 ${style.picture}`}>
-                <Image src={img} className="img-thumbnail rounded-circle"></Image>
+                <Image src={foto} className="img-thumbnail rounded-circle"></Image>
               </div>
               <h5 className="fw-bolder">{worker?.name}</h5>
               <span className={style.work}>{worker?.jobdesk}</span>
