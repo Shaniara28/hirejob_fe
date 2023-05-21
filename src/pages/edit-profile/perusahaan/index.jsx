@@ -4,7 +4,7 @@ import style from '../../../styles/EditProfile.module.css';
 import React from 'react';
 import Image from 'next/image';
 import img from '../../../assets/image/Profil.png';
-import InputFormEdit from '@/Components/Form/InputFormEdit';
+import InputFormEdit from '../../../components/Form/InputFormEdit';
 
 const EditRecruiter = () => {
   return (

@@ -1,13 +1,13 @@
-import LayoutLoginProfile from '@/Components/LayoutPage/LayoutLoginProfil';
-import SectionPage from '@/Components/Section/LandingPage/SectionPage';
+import LayoutLoginProfile from '@/components/LayoutPage/LayoutLoginProfil';
+import SectionPage from '@/components/Section/LandingPage/SectionPage';
 import Image from 'next/image';
 import style from '../../../styles/Profile.module.css';
 import img from '../../../assets/image/Profil.png';
 import img1 from '../../../assets/image/porto-2.png';
 import foto from '../../../assets/image/foto.png';
-import MainProfile from '@/Components/LayoutProfile/MainProfile';
-import LeftSide from '@/Components/LayoutProfile/LeftSide';
-import RightSide from '@/Components/LayoutProfile/RightSide';
+import MainProfile from '@/components/LayoutProfile/MainProfile';
+import LeftSide from '@/components/LayoutProfile/LeftSide';
+import RightSide from '@/components/LayoutProfile/RightSide';
 import Experience from '../../../assets/image/Vector.png';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';

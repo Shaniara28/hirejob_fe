@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import Banner from '@/components/banner';
-import styles from '../../../styles/auth.module.css';
+import styles from '../../../styles/Auth.module.css';
 import Logo_Purple from '../../../assets/image/Logo_Purple.png';
 import { useRouter } from 'next/router';
 import { useState } from 'react';
