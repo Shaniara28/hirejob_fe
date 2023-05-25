@@ -6,7 +6,7 @@
     <image align="center" width="100" src='/src/assets/image/Logo_Purple.png' />
   </p>
   <p align="center">
-    <a href="#">View Demo</a>
+    <a href="https://hirejob-fe-snowy.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -203,7 +203,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend`](https://github.com/Shaniara28/hirejob_fe)
 
-:rocket: [`Demo`]()
+:rocket: [`Demo`](https://hirejob-fe-snowy.vercel.app/)
 
 <!-- CONTACT -->
 
