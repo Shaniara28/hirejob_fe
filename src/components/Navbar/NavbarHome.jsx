@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Logo_Purple from '../../assets/image/Logo_Purple.png';
-import Profile from '../../assets/image/profile-img.png';
+import Profile from '../../assets/image/foto.png';
 import style from '../../styles/Navbar.module.css';
 import Link from 'next/link';
 
