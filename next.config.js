@@ -11,7 +11,7 @@ const nextConfig = {
     ],
   },
   env: {
-    API_BACKEND: 'http://localhost:4000/',
+    API_BACKEND: 'https://hirejobbe-production-15d9.up.railway.app',
   },
   eslint: {
     // Warning: This allows production builds to successfully complete even if
