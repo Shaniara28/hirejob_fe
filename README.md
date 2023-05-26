@@ -115,16 +115,9 @@ Peworld Hirejob is a web-based application, where there are two users, workers a
 
 <details>
   <summary>
-    Profile Worker Portofolio
+    Profile Worker
   </summary>
-<img src="./screenshot/profile-portofolio.PNG" alt="profile portofolio" />
-</details>
-
-<details>
-  <summary>
-    Profile Worker Experience
-  </summary>
-<img src="./screenshot/profile-pengalaman-kerja.PNG" alt="profile experience" />
+<img src="./screenshot/profile-worker.PNG" alt="profile worker" />
 </details>
 
 <details>

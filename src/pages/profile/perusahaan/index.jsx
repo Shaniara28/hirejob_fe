@@ -20,12 +20,12 @@ const CompanyProfile = () => {
                 </Link>
               </div>
               <div className="box-content text-center">
-                <h2>PT. Martabat Jaya Abadi</h2>
+                <h2>PT. Marsi Sukses Makmur</h2>
                 <p>Financial</p>
                 <p className="text-secondary">
                   <i class="bi bi-geo-alt"></i> Purwokerto, Jawa Tengah
                 </p>
-                <p className="px-5">PT. Martabat Jaya Abadi adalah PT yang bergerak pada bidang usaha periklanan yang profesional.</p>
+                <p className="px-5">PT. Marsi Sukses Makmur adalah PT yang bergerak pada bidang usaha periklanan yang profesional.</p>
                 <div className="row justify-content-center text-start ">
                   <div className="col-6 col-md-3 d-grid text-center mb-4">
                     <div className="button d-grid">
@@ -36,16 +36,16 @@ const CompanyProfile = () => {
                   </div>
                   <div className="col-12 d-grid justify-content-center mb-5">
                     <p>
-                      <i class="bi bi-envelope"></i> Martabat_JA@gmail.com
+                      <i class="bi bi-envelope"></i> Marsi_SM@gmail.com
                     </p>
                     <p>
-                      <i class="bi bi-instagram"></i> @Martabat_JA
+                      <i class="bi bi-instagram"></i> @Marsi_SM
                     </p>
                     <p>
                       <i class="bi bi-telephone"></i> 085945582441
                     </p>
                     <p>
-                      <i class="bi bi-linkedin"></i> PT Martabat Jaya Abadi
+                      <i class="bi bi-linkedin"></i> PT Marsi Sukses Makmur
                     </p>
                   </div>
                 </div>
