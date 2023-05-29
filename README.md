@@ -196,7 +196,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend`](https://github.com/Shaniara28/hirejob_fe)
 
-:rocket: [`Demo`](https://hirejob-fe-snowy.vercel.app/)
+:rocket: [`Demo`](https://hirejob-fe-nine.vercel.app/)
 
 <!-- CONTACT -->
 
