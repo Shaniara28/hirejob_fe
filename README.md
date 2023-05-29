@@ -6,7 +6,7 @@
     <image align="center" width="100" src='/src/assets/image/Logo_Purple.png' />
   </p>
   <p align="center">
-    <a href="https://hirejob-fe-snowy.vercel.app/">View Demo</a>
+    <a href="https://hirejob-fe-nine.vercel.app/">View Demo</a>
   </p>
 </p>
 
